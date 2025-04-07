@@ -3,7 +3,7 @@ Rinforcement Learning Incorporating Disagreement and Connectedness Methods with 
 
 ## Overview
 The architecture of the RLDC-LLM framework, which uses Proximal Policy Optimization (PPO) to improve WTI crude oil futures trading performance. The twelve assets that were chosen for the framework are combined with insights from the static and dynamic connectivity analyses.
-！[It consists of twelve assets contained with the WTI to perceive the four different features from the proposed
+![It consists of twelve assets contained with the WTI to perceive the four different features from the proposed
 Feature Extractor, i.e. time series feature, sentiment feature, basic disagreement feature, and cross disagreement feature.
 Except for the WTI, the other eleven assets’ features are calculated by static or dynamic connectedness to enhance the
 correlation with WTI trading, all twelve assets are then concatenated together as the input for the PPO module. The
