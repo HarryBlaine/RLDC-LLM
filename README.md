@@ -10,7 +10,7 @@ correlation with WTI trading, all twelve assets are then concatenated together a
 multi-head attention module and the LSTM Layer are used to capture the critical features from the observation features.
 The actor and critic networks share the same architecture. The main difference is that the output nodes for the actor
 correspond to the three actions “buy”, “hold”, and “sell”, and the output node for the critic is to estimate the state value.
-A well-designed reward with profit or loss and the transaction cost incurred is built to guide the training of the agent.](PPO.pdf)
+A well-designed reward with profit or loss and the transaction cost incurred is built to guide the training of the agent.](PPO.png)
 
 ## Quick start
 you can run the Append_single_asset.py for the demo. 
