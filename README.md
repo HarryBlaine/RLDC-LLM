@@ -13,4 +13,4 @@ correspond to the three actions “buy”, “hold”, and “sell”, and the o
 A well-designed reward with profit or loss and the transaction cost incurred is built to guide the training of the agent.](PPO.png)
 
 ## Quick start
-you can run the Append_single_asset.py for the demo. 
+You can run the Append_single_asset.py for the demo. 
